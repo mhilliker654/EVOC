@@ -1,0 +1,18 @@
+{
+  "name": "ROAD-E-O Evaluator",
+  "short_name": "ROAD-E-O",
+  "description": "Rockford Fire Department Emergency Vehicle Operator Course Evaluator",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef2f5",
+  "theme_color": "#092b4a",
+  "icons": [
+    {
+      "src": "evoc-icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
